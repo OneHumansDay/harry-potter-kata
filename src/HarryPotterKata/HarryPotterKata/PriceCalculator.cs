@@ -18,9 +18,9 @@ namespace HarryPotterKata
 
             if (chamberOfSecrets[0] != chamberOfSecrets[1])
             {
-                fullPrice = fullPrice - fullPrice*0.05m;
+                fullPrice = fullPrice - fullPrice * 0.05m;
             }
-
+            
             return fullPrice;
         }
     }

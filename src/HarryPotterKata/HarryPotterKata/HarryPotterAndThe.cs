@@ -19,7 +19,7 @@ namespace HarryPotterKata
         /// Узник Азкабана
         /// </summary>
         PrisonerOfAzkaban,
-
+        
         /// <summary>
         /// Кубок огня
         /// </summary>
